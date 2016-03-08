@@ -3232,7 +3232,7 @@
     (pad ~ thru_hole circle (at 3.302 -58.674) (size 7 7) (drill 4) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC954)
+  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6923)
     (at 116.5225 172.635001)
     (descr "SMT capacitor, 1206")
     (path /56AC5E66/56DDBDD2)
@@ -3259,7 +3259,7 @@
     )
   )
 
-  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC960)
+  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DF692F)
     (at 116.5225 172.635001)
     (descr "SMT capacitor, 1206")
     (path /56AC5E66/56DDB66E)
@@ -3286,7 +3286,7 @@
     )
   )
 
-  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC96C)
+  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DF693B)
     (at 116.5225 172.635001)
     (descr "SMT capacitor, 1206")
     (path /56AC5E66/56DDABCC)
@@ -3313,7 +3313,7 @@
     )
   )
 
-  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC978)
+  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6947)
     (at 116.5225 172.635001)
     (descr "SMT capacitor, 1206")
     (path /56AC5E66/56DD912A)
@@ -3340,7 +3340,7 @@
     )
   )
 
-  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC984)
+  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6953)
     (at 116.5225 172.635001)
     (descr "SMT capacitor, 1206")
     (path /56AC5E66/56DDBDCB)
@@ -3367,7 +3367,7 @@
     )
   )
 
-  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC990)
+  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DF695F)
     (at 116.5225 172.635001)
     (descr "SMT capacitor, 1206")
     (path /56AC5E66/56DDB667)
@@ -3394,7 +3394,7 @@
     )
   )
 
-  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC99C)
+  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DF696B)
     (at 116.5225 172.635001)
     (descr "SMT capacitor, 1206")
     (path /56AC5E66/56DDABC5)
@@ -3421,7 +3421,7 @@
     )
   )
 
-  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC9A8)
+  (module EESTN5:C_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6977)
     (at 116.5225 172.635001)
     (descr "SMT capacitor, 1206")
     (path /56AC5E66/56DD9124)
@@ -3448,7 +3448,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC9B9)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6988)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56ACC7A7/53F139B6)
@@ -3480,7 +3480,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC9CA)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6999)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56ACC7A7/56D425D7)
@@ -3512,7 +3512,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC9DB)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF69AA)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56ACC7A7/56D42783)
@@ -3544,7 +3544,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC9EC)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF69BB)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56ACC7A7/56D427D0)
@@ -3576,7 +3576,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DEC9FD)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF69CC)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56ACC7A7/56D42E74)
@@ -3608,7 +3608,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DECA0E)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF69DD)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56ACC7A7/56D42EC1)
@@ -3640,7 +3640,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DECA1F)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF69EE)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56ACC7A7/56D42F0E)
@@ -3672,7 +3672,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DECA30)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF69FF)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56AC5E66/56D36B9B)
@@ -3704,7 +3704,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DECA41)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6A10)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56AC5E66/52E08791)
@@ -3736,7 +3736,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DECA52)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6A21)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56AC5E66/56D36436)
@@ -3768,7 +3768,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DECA63)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6A32)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56AC5E66/56D36B1C)
@@ -3800,7 +3800,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DECA74)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6A43)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56AC5E66/56D4FD50)
@@ -3832,7 +3832,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DECA85)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6A54)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56AC5E66/52E032C8)
@@ -3864,7 +3864,7 @@
     )
   )
 
-  (module EESTN5:SOD80C (layer F.Cu) (tedit 0) (tstamp 56DECA92)
+  (module EESTN5:SOD80C (layer F.Cu) (tedit 0) (tstamp 56DF6A61)
     (at 116.5225 172.635001)
     (descr SOD80C)
     (path /56AC5E66/56D4FD2B)
@@ -3892,7 +3892,7 @@
     )
   )
 
-  (module EESTN5:SOD80C (layer F.Cu) (tedit 0) (tstamp 56DECA9F)
+  (module EESTN5:SOD80C (layer F.Cu) (tedit 0) (tstamp 56DF6A6E)
     (at 116.5225 172.635001)
     (descr SOD80C)
     (path /56AC5E66/52CA4351)
@@ -3920,7 +3920,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DECAB0)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6A7F)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56AC5E66/56D5044E)
@@ -3952,7 +3952,7 @@
     )
   )
 
-  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DECAC1)
+  (module EESTN5:LED_1206 (layer F.Cu) (tedit 0) (tstamp 56DF6A90)
     (at 116.5225 172.635001)
     (descr "SMD LED_ 1206")
     (path /56AC5E66/56D503F9)
@@ -3984,7 +3984,7 @@
     )
   )
 
-  (module EESTN5:SOD80C (layer F.Cu) (tedit 0) (tstamp 56DECACE)
+  (module EESTN5:SOD80C (layer F.Cu) (tedit 0) (tstamp 56DF6A9D)
     (at 116.5225 172.635001)
     (descr SOD80C)
     (path /56AC5E66/56D50429)
@@ -4012,7 +4012,7 @@
     )
   )
 
-  (module EESTN5:SOD80C (layer F.Cu) (tedit 0) (tstamp 56DECADB)
+  (module EESTN5:SOD80C (layer F.Cu) (tedit 0) (tstamp 56DF6AAA)
     (at 116.5225 172.635001)
     (descr SOD80C)
     (path /56AC5E66/56D503D4)
@@ -4040,7 +4040,7 @@
     )
   )
 
-  (module EESTN5:LCD_16x2 (layer F.Cu) (tedit 0) (tstamp 56DECB03)
+  (module EESTN5:LCD_16x2 (layer F.Cu) (tedit 0) (tstamp 56DF6AD2)
     (at 116.5225 172.635001)
     (descr "LCD Module, 16x2")
     (path /56DE5604)
@@ -4109,7 +4109,7 @@
     )
   )
 
-  (module EESTN5:HEADER-4H (layer F.Cu) (tedit 0) (tstamp 56DECB3A)
+  (module EESTN5:HEADER-4H (layer F.Cu) (tedit 0) (tstamp 56DF6B09)
     (at 116.5225 172.635001)
     (descr "Through hole pin header horizontal")
     (tags "pin header HEADER-4H")
@@ -4182,7 +4182,7 @@
     )
   )
 
-  (module EESTN5:HEADER-4H (layer F.Cu) (tedit 0) (tstamp 56DECB71)
+  (module EESTN5:HEADER-4H (layer F.Cu) (tedit 0) (tstamp 56DF6B40)
     (at 116.5225 172.635001)
     (descr "Through hole pin header horizontal")
     (tags "pin header HEADER-4H")
@@ -4255,7 +4255,7 @@
     )
   )
 
-  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DECB84)
+  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DF6B53)
     (at 116.5225 172.635001)
     (descr "3-way 5,08mm pitch terminal block, Phoenix MKDS series")
     (path /56ACC7A7/52F6E01C)
@@ -4290,7 +4290,7 @@
     )
   )
 
-  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DECB97)
+  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DF6B66)
     (at 116.5225 172.635001)
     (descr "3-way 5,08mm pitch terminal block, Phoenix MKDS series")
     (path /56ACC7A7/52F6E038)
@@ -4325,7 +4325,7 @@
     )
   )
 
-  (module EESTN5:BORNERA2 (layer F.Cu) (tedit 0) (tstamp 56DECBA7)
+  (module EESTN5:BORNERA2 (layer F.Cu) (tedit 0) (tstamp 56DF6B76)
     (at 116.5225 172.635001)
     (descr "2-way 5.08mm pitch terminal block, Phoenix MKDS series")
     (path /56ACC7A7/56D48D54)
@@ -4356,7 +4356,7 @@
     )
   )
 
-  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DECBBA)
+  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DF6B89)
     (at 116.5225 172.635001)
     (descr "3-way 5,08mm pitch terminal block, Phoenix MKDS series")
     (path /56AC5E66/56D45CFD)
@@ -4390,7 +4390,7 @@
     )
   )
 
-  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DECBCD)
+  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DF6B9C)
     (at 116.5225 172.635001)
     (descr "3-way 5,08mm pitch terminal block, Phoenix MKDS series")
     (path /56AC5E66/56D45E9C)
@@ -4424,7 +4424,7 @@
     )
   )
 
-  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DECBE0)
+  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DF6BAF)
     (at 116.5225 172.635001)
     (descr "3-way 5,08mm pitch terminal block, Phoenix MKDS series")
     (path /56AC5E66/52F6BF3F)
@@ -4459,7 +4459,7 @@
     )
   )
 
-  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DECBF3)
+  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DF6BC2)
     (at 116.5225 172.635001)
     (descr "3-way 5,08mm pitch terminal block, Phoenix MKDS series")
     (path /56AC5E66/56D55343)
@@ -4494,7 +4494,7 @@
     )
   )
 
-  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DECC06)
+  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DF6BD5)
     (at 116.5225 172.635001)
     (descr "3-way 5,08mm pitch terminal block, Phoenix MKDS series")
     (path /56AC5E66/56D554AE)
@@ -4529,7 +4529,7 @@
     )
   )
 
-  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DECC19)
+  (module EESTN5:BORNERA3 (layer F.Cu) (tedit 0) (tstamp 56DF6BE8)
     (at 116.5225 172.635001)
     (descr "3-way 5,08mm pitch terminal block, Phoenix MKDS series")
     (path /56AC5E66/56D554BB)
@@ -4564,7 +4564,7 @@
     )
   )
 
-  (module EESTN5:Pin_strip_2 (layer F.Cu) (tedit 0) (tstamp 56DECC24)
+  (module EESTN5:Pin_strip_2 (layer F.Cu) (tedit 0) (tstamp 56DF6BF3)
     (at 116.5225 172.635001)
     (descr "Pin strip 2pin")
     (tags "CONN DEV")
@@ -4591,7 +4591,7 @@
     )
   )
 
-  (module EESTN5:Pin_strip_2 (layer F.Cu) (tedit 0) (tstamp 56DECC2F)
+  (module EESTN5:Pin_strip_2 (layer F.Cu) (tedit 0) (tstamp 56DF6BFE)
     (at 116.5225 172.635001)
     (descr "Pin strip 2pin")
     (tags "CONN DEV")
@@ -4618,7 +4618,7 @@
     )
   )
 
-  (module EESTN5:Pin_strip_2 (layer F.Cu) (tedit 0) (tstamp 56DECC3A)
+  (module EESTN5:Pin_strip_2 (layer F.Cu) (tedit 0) (tstamp 56DF6C09)
     (at 116.5225 172.635001)
     (descr "Pin strip 2pin")
     (tags "CONN DEV")
@@ -4645,7 +4645,7 @@
     )
   )
 
-  (module EESTN5:Pin_strip_2 (layer F.Cu) (tedit 0) (tstamp 56DECC45)
+  (module EESTN5:Pin_strip_2 (layer F.Cu) (tedit 0) (tstamp 56DF6C14)
     (at 116.5225 172.635001)
     (descr "Pin strip 2pin")
     (tags "CONN DEV")
@@ -4672,7 +4672,7 @@
     )
   )
 
-  (module EESTN5:Relay_C (layer F.Cu) (tedit 56DACADC) (tstamp 56DECC63)
+  (module EESTN5:Relay_C (layer F.Cu) (tedit 56DACADC) (tstamp 56DF6C32)
     (at 116.5225 172.635001)
     (descr "relay, Tianbo HJR-3FF series")
     (path /56AC5E66/56DF8008)
@@ -4720,7 +4720,7 @@
     )
   )
 
-  (module EESTN5:Relay_C (layer F.Cu) (tedit 56DACADC) (tstamp 56DECC81)
+  (module EESTN5:Relay_C (layer F.Cu) (tedit 56DACADC) (tstamp 56DF6C50)
     (at 116.5225 172.635001)
     (descr "relay, Tianbo HJR-3FF series")
     (path /56AC5E66/56DFA134)
@@ -4768,7 +4768,7 @@
     )
   )
 
-  (module EESTN5:Relay_C (layer F.Cu) (tedit 56DACADC) (tstamp 56DECC9F)
+  (module EESTN5:Relay_C (layer F.Cu) (tedit 56DACADC) (tstamp 56DF6C6E)
     (at 116.5225 172.635001)
     (descr "relay, Tianbo HJR-3FF series")
     (path /56AC5E66/56DF9436)
@@ -4816,7 +4816,7 @@
     )
   )
 
-  (module EESTN5:Relay_C (layer F.Cu) (tedit 56DACADC) (tstamp 56DECCBD)
+  (module EESTN5:Relay_C (layer F.Cu) (tedit 56DACADC) (tstamp 56DF6C8C)
     (at 116.5225 172.635001)
     (descr "relay, Tianbo HJR-3FF series")
     (path /56AC5E66/56DF9DA3)
@@ -4864,7 +4864,7 @@
     )
   )
 
-  (module EESTN5:SOT-223 (layer F.Cu) (tedit 0) (tstamp 56DECCD5)
+  (module EESTN5:SOT-223 (layer F.Cu) (tedit 0) (tstamp 56DF6CA4)
     (at 116.5225 172.635001)
     (descr SOT223)
     (path /56AC5E66/53F1AA62)
@@ -4905,7 +4905,7 @@
     )
   )
 
-  (module EESTN5:SOT-223 (layer F.Cu) (tedit 0) (tstamp 56DECCED)
+  (module EESTN5:SOT-223 (layer F.Cu) (tedit 0) (tstamp 56DF6CBC)
     (at 116.5225 172.635001)
     (descr SOT223)
     (path /56AC5E66/56D36470)
@@ -4946,7 +4946,7 @@
     )
   )
 
-  (module EESTN5:SOT-223 (layer F.Cu) (tedit 0) (tstamp 56DECD05)
+  (module EESTN5:SOT-223 (layer F.Cu) (tedit 0) (tstamp 56DF6CD4)
     (at 116.5225 172.635001)
     (descr SOT223)
     (path /56AC5E66/56D36B56)
@@ -4987,7 +4987,7 @@
     )
   )
 
-  (module EESTN5:SOT-223 (layer F.Cu) (tedit 0) (tstamp 56DECD1D)
+  (module EESTN5:SOT-223 (layer F.Cu) (tedit 0) (tstamp 56DF6CEC)
     (at 116.5225 172.635001)
     (descr SOT223)
     (path /56AC5E66/56D36BD5)
@@ -5028,7 +5028,7 @@
     )
   )
 
-  (module EESTN5:SOT23 (layer F.Cu) (tedit 0) (tstamp 56DECD2B)
+  (module EESTN5:SOT23 (layer F.Cu) (tedit 0) (tstamp 56DF6CFA)
     (at 116.5225 172.635001)
     (descr SOT23)
     (path /56AC5E66/56DF2ADB)
@@ -5058,7 +5058,7 @@
     )
   )
 
-  (module EESTN5:SOT23 (layer F.Cu) (tedit 0) (tstamp 56DECD39)
+  (module EESTN5:SOT23 (layer F.Cu) (tedit 0) (tstamp 56DF6D08)
     (at 116.5225 172.635001)
     (descr SOT23)
     (path /56AC5E66/56DF2DB8)
@@ -5088,7 +5088,7 @@
     )
   )
 
-  (module EESTN5:SOT23 (layer F.Cu) (tedit 0) (tstamp 56DECD47)
+  (module EESTN5:SOT23 (layer F.Cu) (tedit 0) (tstamp 56DF6D16)
     (at 116.5225 172.635001)
     (descr SOT23)
     (path /56AC5E66/56DF2D58)
@@ -5118,7 +5118,7 @@
     )
   )
 
-  (module EESTN5:SOT23 (layer F.Cu) (tedit 0) (tstamp 56DECD55)
+  (module EESTN5:SOT23 (layer F.Cu) (tedit 0) (tstamp 56DF6D24)
     (at 116.5225 172.635001)
     (descr SOT23)
     (path /56AC5E66/56DF2E17)
@@ -5148,7 +5148,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECD61)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6D30)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56DFE42E)
@@ -5175,7 +5175,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECD6D)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6D3C)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/52C9FA85)
@@ -5202,7 +5202,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECD79)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6D48)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D425B0)
@@ -5229,7 +5229,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECD85)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6D54)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D4275C)
@@ -5256,7 +5256,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECD91)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6D60)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D427A9)
@@ -5283,7 +5283,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECD9D)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6D6C)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42E4D)
@@ -5310,7 +5310,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECDA9)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6D78)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42E9A)
@@ -5337,7 +5337,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECDB5)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6D84)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42EE7)
@@ -5364,7 +5364,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECDC1)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6D90)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/53F1373B)
@@ -5391,7 +5391,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECDCD)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6D9C)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D425CD)
@@ -5418,7 +5418,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECDD9)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6DA8)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42779)
@@ -5445,7 +5445,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECDE5)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6DB4)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D427C6)
@@ -5472,7 +5472,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECDF1)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6DC0)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42E6A)
@@ -5499,7 +5499,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECDFD)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6DCC)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42EB7)
@@ -5526,7 +5526,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE09)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6DD8)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42F04)
@@ -5553,7 +5553,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE15)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6DE4)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/53F139D5)
@@ -5580,7 +5580,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE21)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6DF0)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/52C9FAAD)
@@ -5607,7 +5607,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE2D)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6DFC)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D425DD)
@@ -5634,7 +5634,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE39)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E08)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D425B6)
@@ -5661,7 +5661,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE45)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E14)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42789)
@@ -5688,7 +5688,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE51)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E20)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42762)
@@ -5715,7 +5715,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE5D)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E2C)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D427D6)
@@ -5742,7 +5742,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE69)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E38)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D427AF)
@@ -5769,7 +5769,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE75)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E44)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42E7A)
@@ -5796,7 +5796,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE81)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E50)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42E53)
@@ -5823,7 +5823,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE8D)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E5C)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42EC7)
@@ -5850,7 +5850,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECE99)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E68)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42EA0)
@@ -5877,7 +5877,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECEA5)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E74)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42F14)
@@ -5904,7 +5904,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECEB1)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E80)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56ACC7A7/56D42EED)
@@ -5931,7 +5931,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECEBD)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E8C)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/52CA48D5)
@@ -5958,7 +5958,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECEC9)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6E98)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D3641A)
@@ -5985,7 +5985,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECED5)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6EA4)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D36B00)
@@ -6012,7 +6012,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECEE1)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6EB0)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D36B7F)
@@ -6039,7 +6039,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECEED)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6EBC)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/52E0878B)
@@ -6066,7 +6066,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECEF9)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6EC8)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D3642F)
@@ -6093,7 +6093,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECF05)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6ED4)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D36B15)
@@ -6120,7 +6120,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECF11)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6EE0)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D36B94)
@@ -6147,7 +6147,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECF1D)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6EEC)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D4FD3E)
@@ -6174,7 +6174,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECF29)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6EF8)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/52CA436C)
@@ -6201,7 +6201,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECF35)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6F04)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D4FD49)
@@ -6228,7 +6228,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECF41)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6F10)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/52E032C2)
@@ -6255,7 +6255,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECF4D)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6F1C)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D5043C)
@@ -6282,7 +6282,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECF59)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6F28)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D503E7)
@@ -6309,7 +6309,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECF65)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6F34)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D50447)
@@ -6336,7 +6336,7 @@
     )
   )
 
-  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DECF71)
+  (module EESTN5:R_1206 (layer F.Cu) (tedit 56DB0103) (tstamp 56DF6F40)
     (at 116.5225 172.635001)
     (descr "SMT resistor, 1206")
     (path /56AC5E66/56D503F2)
@@ -6363,7 +6363,7 @@
     )
   )
 
-  (module EESTN5:TRIMER_V (layer F.Cu) (tedit 56DDBA52) (tstamp 56DECF85)
+  (module EESTN5:TRIMER_V (layer F.Cu) (tedit 56DDBA52) (tstamp 56DF6F54)
     (at 116.5225 172.635001)
     (descr "trimmer, Piher PT6-xV")
     (tags trimmer)
@@ -6400,7 +6400,7 @@
     )
   )
 
-  (module EESTN5:PTC_1210 (layer F.Cu) (tedit 53B1B77A) (tstamp 56DECF91)
+  (module EESTN5:PTC_1210 (layer F.Cu) (tedit 53B1B77A) (tstamp 56DF6F60)
     (at 116.5225 172.635001)
     (descr "PTC Resettable Fuse, 1210")
     (tags "ptc, fuse")
@@ -6428,7 +6428,7 @@
     )
   )
 
-  (module EESTN5:PTC_1210 (layer F.Cu) (tedit 53B1B77A) (tstamp 56DECF9D)
+  (module EESTN5:PTC_1210 (layer F.Cu) (tedit 53B1B77A) (tstamp 56DF6F6C)
     (at 116.5225 172.635001)
     (descr "PTC Resettable Fuse, 1210")
     (tags "ptc, fuse")
@@ -6456,7 +6456,7 @@
     )
   )
 
-  (module EESTN5:PTC_1210 (layer F.Cu) (tedit 53B1B77A) (tstamp 56DECFA9)
+  (module EESTN5:PTC_1210 (layer F.Cu) (tedit 53B1B77A) (tstamp 56DF6F78)
     (at 116.5225 172.635001)
     (descr "PTC Resettable Fuse, 1210")
     (tags "ptc, fuse")
@@ -6484,7 +6484,7 @@
     )
   )
 
-  (module EESTN5:PTC_1210 (layer F.Cu) (tedit 53B1B77A) (tstamp 56DECFB5)
+  (module EESTN5:PTC_1210 (layer F.Cu) (tedit 53B1B77A) (tstamp 56DF6F84)
     (at 116.5225 172.635001)
     (descr "PTC Resettable Fuse, 1210")
     (tags "ptc, fuse")
@@ -6512,7 +6512,7 @@
     )
   )
 
-  (module EESTN5:DIP_16-300_socket (layer F.Cu) (tedit 0) (tstamp 56DECFD9)
+  (module EESTN5:DIP_16-300_socket (layer F.Cu) (tedit 0) (tstamp 56DF6FA8)
     (at 116.5225 172.635001)
     (descr "IC, DIP16 x 0,3\", with socket")
     (tags "DIP DIL")
@@ -6578,7 +6578,7 @@
     )
   )
 
-  (module EESTN5:DIP_16-300_socket (layer F.Cu) (tedit 0) (tstamp 56DECFFD)
+  (module EESTN5:DIP_16-300_socket (layer F.Cu) (tedit 0) (tstamp 56DF6FCC)
     (at 116.5225 172.635001)
     (descr "IC, DIP16 x 0,3\", with socket")
     (tags "DIP DIL")
@@ -6644,7 +6644,7 @@
     )
   )
 
-  (module EESTN5:SOT-23-5 (layer F.Cu) (tedit 0) (tstamp 56DED011)
+  (module EESTN5:SOT-23-5 (layer F.Cu) (tedit 0) (tstamp 56DF6FE0)
     (at 116.5225 172.635001)
     (descr SOT23-5)
     (path /56AC5E66/53F13D24)
@@ -6682,7 +6682,7 @@
     )
   )
 
-  (module EESTN5:SOT-23-5 (layer F.Cu) (tedit 0) (tstamp 56DED025)
+  (module EESTN5:SOT-23-5 (layer F.Cu) (tedit 0) (tstamp 56DF6FF4)
     (at 116.5225 172.635001)
     (descr SOT23-5)
     (path /56AC5E66/56D3643D)
@@ -6720,7 +6720,7 @@
     )
   )
 
-  (module EESTN5:SOT-23-5 (layer F.Cu) (tedit 0) (tstamp 56DED039)
+  (module EESTN5:SOT-23-5 (layer F.Cu) (tedit 0) (tstamp 56DF7008)
     (at 116.5225 172.635001)
     (descr SOT23-5)
     (path /56AC5E66/56D36B23)
@@ -6758,7 +6758,7 @@
     )
   )
 
-  (module EESTN5:SOT-23-5 (layer F.Cu) (tedit 0) (tstamp 56DED04D)
+  (module EESTN5:SOT-23-5 (layer F.Cu) (tedit 0) (tstamp 56DF701C)
     (at 116.5225 172.635001)
     (descr SOT23-5)
     (path /56AC5E66/56D36BA2)
@@ -6796,6 +6796,18 @@
     )
   )
 
+  (dimension 85.725 (width 0.3) (layer Dwgs.User)
+    (gr_text 85,725mm (at 116.5225 175.34) (layer Dwgs.User) (tstamp 560FAAF6)
+      (effects (font (size 1.5 1.5) (thickness 0.3)))
+    )
+    (feature1 (pts (xy 73.66 162.56) (xy 73.66 176.69)))
+    (feature2 (pts (xy 159.385 162.56) (xy 159.385 176.69)))
+    (crossbar (pts (xy 159.385 173.99) (xy 73.66 173.99)))
+    (arrow1a (pts (xy 73.66 173.99) (xy 74.786504 173.403579)))
+    (arrow1b (pts (xy 73.66 173.99) (xy 74.786504 174.576421)))
+    (arrow2a (pts (xy 159.385 173.99) (xy 158.258496 173.403579)))
+    (arrow2b (pts (xy 159.385 173.99) (xy 158.258496 174.576421)))
+  )
   (gr_text "Borrar (Footprint MP1) la Plantilla-EDU-CIAA \nal finalizar  el posicionamiento y definido el \nborde de PCB.\n" (at 210.185 86.36) (layer Dwgs.User) (tstamp 560FAF2D)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
   )
@@ -7078,18 +7090,6 @@
     (arrow1b (pts (xy 170.18 162.56) (xy 170.766421 161.433496)))
     (arrow2a (pts (xy 170.18 137.16) (xy 169.593579 138.286504)))
     (arrow2b (pts (xy 170.18 137.16) (xy 170.766421 138.286504)))
-  )
-  (dimension 85.725 (width 0.3) (layer Dwgs.User)
-    (gr_text 85,725mm (at 116.5225 175.34) (layer Dwgs.User) (tstamp 560FAAF6)
-      (effects (font (size 1.5 1.5) (thickness 0.3)))
-    )
-    (feature1 (pts (xy 73.66 162.56) (xy 73.66 176.69)))
-    (feature2 (pts (xy 159.385 162.56) (xy 159.385 176.69)))
-    (crossbar (pts (xy 159.385 173.99) (xy 73.66 173.99)))
-    (arrow1a (pts (xy 73.66 173.99) (xy 74.786504 173.403579)))
-    (arrow1b (pts (xy 73.66 173.99) (xy 74.786504 174.576421)))
-    (arrow2a (pts (xy 159.385 173.99) (xy 158.258496 173.403579)))
-    (arrow2b (pts (xy 159.385 173.99) (xy 158.258496 174.576421)))
   )
   (dimension 137.16 (width 0.3) (layer Dwgs.User)
     (gr_text 137,160mm (at 60.88 93.98 270) (layer Dwgs.User) (tstamp 560FAAF8)
